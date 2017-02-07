@@ -1,5 +1,7 @@
 # Yaml Front Matter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mattmcmanus/js-yaml-front-matter.svg)](https://greenkeeper.io/)
+
 parses yaml at the top of a file, plus the file content into an object literal.
 
 ## Example
